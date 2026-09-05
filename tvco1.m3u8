@@ -29,6 +29,8 @@ http://190.11.225.124:5000/live/el_gourmet_hd/playlist.m3u8
 http://181.78.79.131:8000/play/a0pw
 #EXTINF:0,ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:0,ESPN 2 (1080p)
+http://181.78.79.131:8000/play/a0s7
 #EXTINF:0,ESPN 3 (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:0,ESPN 4 (1080p)
