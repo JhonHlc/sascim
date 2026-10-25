@@ -8,7 +8,7 @@ http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:0,Caracol HD2
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:0,Caracol TV
-http://190.61.47.54:8000/play/a01e/index.m3u8
+http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 #EXTINF:0,Citytv Bogota 
 http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:0,Chilevision 
@@ -23,10 +23,12 @@ http://181.78.79.131:8000/play/a0pb
 http://181.78.79.131:8000/play/a0p8
 #EXTINF:0,Discovery World
 http://181.78.79.131:8000/play/a0n8
-#EXTINF:0,E! Latin America Mexico (720p) cambiar
+#EXTINF:0,E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:0,El Gourmet 
 http://138.121.15.230:9002/EL-GOURMET/index.m3u8
+#EXTINF:0,El Gourmet 
+http://168.196.127.137:6001/play/a03q/index.m3u8
 #EXTINF:0,ESPN
 http://181.78.79.131:8000/play/a0s7
 #EXTINF:0,ESPN 2 
@@ -111,5 +113,3 @@ https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
 http://181.78.79.131:8000/play/a0pz
 #EXTINF:0,Win Sports 
 http://190.217.66.92:8000/play/a0fh/index.m3u8
-#EXTINF:0,Caracol TV  quitar
-http://181.78.17.228:8081/CARACOL-HD/index.m3u8
